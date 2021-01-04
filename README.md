@@ -1,4 +1,7 @@
 # Disc_Gen_Model
+
+MO435 - Fundamentos Probabilísticos de Aprendizado de Máquina
+
 Discriminative and Generative models
 
 This repository contains the first project of the Unsupervised Learning course taken at the Computational Institute of the University of Campinas.
