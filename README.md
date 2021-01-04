@@ -1,7 +1,7 @@
 # Disc_Gen_Model
 Discriminative and Generative models
 
-This directory contains the first project of the Unsupervided Learning course taken at the Computational Institute of the University of Campinas.
+This repository contains the first project of the Unsupervided Learning course taken at the Computational Institute of the University of Campinas.
 
 The purpuse of the project is to implement discriminative and generative models used in unsupervided learning.
 
