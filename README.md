@@ -6,6 +6,8 @@ Discriminative and Generative models
 
 This repository contains the first project of the Unsupervised Learning course taken at the Computational Institute of the University of Campinas.
 
+Code in python and report in latex.
+
 The purpuse of the project is to implement discriminative and generative models used in unsupervided learning.
 
 See the project01.pdf for more details.
